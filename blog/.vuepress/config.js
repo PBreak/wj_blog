@@ -2,6 +2,7 @@ module.exports = {
   title: 'Wj Blog',
   description: 'This is a blog example built by VuePress',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  base:"/wj_blog/",
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/#modifyblogpluginoptions
